@@ -8,8 +8,14 @@
 
 This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, and **JavaScript**.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela/HackerRank-Solutions/commits/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/MasterZesty/HackerRank-Solutions)](https://github.com/MasterZesty/HackerRank-Solutions/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/MasterZesty/HackerRank-Solutions?style=plastic)](https://github.com/nathan-abela/HackerRank-Solutions/archive/master.zip)
+
+[![GitHub issues](https://img.shields.io/github/issues/MasterZesty/HackerRank-Solutions)](https://img.shields.io/github/issues/MasterZesty/HackerRank-Solutions)
+
+[![GitHub license](https://img.shields.io/github/license/MasterZesty/HackerRank-Solutions)](https://img.shields.io/github/license/MasterZesty/HackerRank-Solutions)
+
+[![Forks](https://img.shields.io/github/forks/MasterZesty/HackerRank-Solutions)](https://img.shields.io/github/forks/MasterZesty/HackerRank-Solutions)
 
 ## Personal HackerRank Profile
 
